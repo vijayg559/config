@@ -3,6 +3,6 @@ my.list.values: Red,Green,Yello,Blue
 
 
 #DB Properties
-db.connection: https://spring-boot-config:3306/dbname/tablename
+db.connection: https://spring-boot-bootyy-config:3306/dbname/tablename
 db.host: spring-boot-config
 db.port: 3306
